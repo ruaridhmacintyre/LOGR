@@ -4,7 +4,7 @@
 This guide gives details on setup of specific elements of LOGR.  Some modules are only accessible to users with admin priviledges so will only be relavent to those users.  The level of priviledges will be shown after the modules type as follows
 `admin` or `comparment editor`
 
-The modules that users can access in LOGR are as follows:
+The modules that users can access in LOGR are as follows:  
 [Customers](#01-customers)  
 [Delivery Locations](#02-delivery-locations-admin)  
 [Suppliers]  

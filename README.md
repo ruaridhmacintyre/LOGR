@@ -5,14 +5,14 @@ This guide gives details on setup of specific elements of LOGR.  Some modules ar
 `admin` or `comparment editor`
 
 The modules that users can access in LOGR are as follows:
-[Customers](#01-customers)
-[Delivery Locations](#02-delivery-locations-admin)
-[Suppliers]
-[Landowner]
-[Products]
-[Supplier]
-[Compartments]
-[Users]
+[Customers](#01-customers)  
+[Delivery Locations](#02-delivery-locations-admin)  
+[Suppliers]  
+[Landowner]  
+[Products]  
+[Supplier]  
+[Compartments]  
+[Users]  
 
 
 
@@ -55,20 +55,20 @@ The standard syntax would be as follows:
 
 i.e. "James Jones Lockerbie" or "Annan" should be as follows:
 
-> James Jones : Lockerbie
-> James Jones : Annan
+> James Jones : Lockerbie  
+> James Jones : Annan  
 
 And "West Fraser Cowie" or "Inverness" should be as follows:
 
-> West Fraser : Cowie
-> West Fraser : Inverness
+> West Fraser : Cowie  
+> West Fraser : Inverness  
 
 Other examples might be:
 
-> AWJ : Castlebridge
-> AWJ : Lockerbie
-> BSW : Dalbeattie
-> Glennon : Windymains
+> AWJ : Castlebridge  
+> AWJ : Lockerbie  
+> BSW : Dalbeattie  
+> Glennon : Windymains  
 
 [Goto to of page](#logr)
 
